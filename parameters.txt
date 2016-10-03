@@ -1,0 +1,22 @@
+N: 39
+dt: 0.00001
+nsteps: 5000000000
+files: KTVFAX
+rHO: 7.82
+numimpure: 9
+rhoimp: 1.2
+rhofac: 0.5
+d: 0.007049
+dhi: 19.24
+dii: 38.48
+addforce: r 161.5 5.107 1000 100
+Wall: 11
+timeSPItS: 10.0
+fileName: CMI_Jul.11.2015.RC.SRF.1000Freq.N39_9_Soft_HW
+exponential: 2.5
+largeinitv: 0
+smallinitv: 0
+preload: 0
+Rlarge: 6
+q: 0
+
